@@ -13,3 +13,5 @@ const iceCreamReducer = (state = initialState, action) => {
     default: return state
   }
 }
+
+export default iceCreamReducer
